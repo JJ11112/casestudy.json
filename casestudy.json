@@ -1,18 +1,21 @@
 {
   "brands": [
     {
+      "id": 1,
       "name": "Dell"
     },
     {
+      "id": 2,
       "name": "HP"
     },
     {
+      "id": 3,
       "name": "Lenovo"
     }
   ],
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "brandId": 1,
       "productName": "Dell XPS 13",
       "graphicName": "dell_xps_13.jpg",
@@ -23,7 +26,7 @@
       "description": "The Dell XPS 13 is a high-end laptop with a sleek design and powerful performance."
     },
     {
-      "id": 2,
+      "id": "2",
       "brandId": 1,
       "productName": "Dell Inspiron 15",
       "graphicName": "dell_inspiron_15.jpg",
@@ -34,7 +37,7 @@
       "description": "The Dell Inspiron 15 offers great performance for everyday tasks at an affordable price."
     },
     {
-      "id": 3,
+      "id": "3",
       "brandId": 1,
       "productName": "Dell G5 15",
       "graphicName": "dell_g5_15.jpg",
@@ -45,7 +48,7 @@
       "description": "The Dell G5 15 is a gaming laptop with powerful specs for a smooth gaming experience."
     },
     {
-      "id": 4,
+      "id": "4",
       "brandId": 1,
       "productName": "Dell Latitude 14",
       "graphicName": "dell_latitude_14.jpg",
@@ -56,7 +59,7 @@
       "description": "The Dell Latitude 14 is a business laptop with robust security features and long battery life."
     },
     {
-      "id": 5,
+      "id": "5",
       "brandId": 1,
       "productName": "Dell Precision 5530",
       "graphicName": "dell_precision_5530.jpg",
@@ -67,7 +70,7 @@
       "description": "The Dell Precision 5530 is a workstation laptop designed for heavy-duty tasks like video editing and 3D rendering."
     },
     {
-      "id": 6,
+      "id": "6",
       "brandId": 2,
       "productName": "HP Spectre x360",
       "graphicName": "hp_spectre_x360.jpg",
@@ -78,7 +81,7 @@
       "description": "The HP Spectre x360 is a premium 2-in-1 laptop with a stunning display and excellent performance."
     },
     {
-      "id": 7,
+      "id": "7",
       "brandId": 2,
       "productName": "HP Envy 13",
       "graphicName": "hp_envy_13.jpg",
@@ -89,7 +92,7 @@
       "description": "The HP Envy 13 is a stylish and powerful laptop ideal for both work and entertainment."
     },
     {
-      "id": 8,
+      "id": "8",
       "brandId": 2,
       "productName": "HP Pavilion 15",
       "graphicName": "hp_pavilion_15.jpg",
@@ -100,7 +103,7 @@
       "description": "The HP Pavilion 15 is a budget-friendly laptop with reliable performance and a sleek design."
     },
     {
-      "id": 9,
+      "id": "9",
       "brandId": 2,
       "productName": "HP Omen 15",
       "graphicName": "hp_omen_15.jpg",
@@ -111,7 +114,7 @@
       "description": "The HP Omen 15 is a gaming laptop with high-end specs and a customizable RGB keyboard."
     },
     {
-      "id": 10,
+      "id": "10",
       "brandId": 2,
       "productName": "HP EliteBook 840",
       "graphicName": "hp_elitebook_840.jpg",
@@ -122,7 +125,7 @@
       "description": "The HP EliteBook 840 is a business laptop with top-notch security features and long battery life."
     },
     {
-      "id": 11,
+      "id": "11",
       "brandId": 3,
       "productName": "Lenovo ThinkPad X1 Carbon",
       "graphicName": "lenovo_thinkpad_x1_carbon.jpg",
@@ -133,7 +136,7 @@
       "description": "The Lenovo ThinkPad X1 Carbon is a premium business laptop with a lightweight design and powerful performance."
     },
     {
-      "id": 12,
+      "id": "12",
       "brandId": 3,
       "productName": "Lenovo Yoga 920",
       "graphicName": "lenovo_yoga_920.jpg",
@@ -144,7 +147,7 @@
       "description": "The Lenovo Yoga 920 is a versatile 2-in-1 laptop with a 4K display and long battery life."
     },
     {
-      "id": 13,
+      "id": "13",
       "brandId": 3,
       "productName": "Lenovo Legion Y740",
       "graphicName": "lenovo_legion_y740.jpg",
@@ -155,7 +158,7 @@
       "description": "The Lenovo Legion Y740 is a gaming laptop with high-end specs and a customizable RGB keyboard."
     },
     {
-      "id": 14,
+      "id": "14",
       "brandId": 3,
       "productName": "Lenovo IdeaPad 330",
       "graphicName": "lenovo_ideapad_330.jpg",
@@ -166,7 +169,7 @@
       "description": "The Lenovo IdeaPad 330 is a budget-friendly laptop with decent performance for everyday tasks."
     },
     {
-      "id": 15,
+      "id": "15",
       "brandId": 3,
       "productName": "Lenovo Flex 14",
       "graphicName": "lenovo_flex_14.jpg",
